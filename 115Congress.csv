@@ -1,0 +1,545 @@
+State Label,State Code,District,Name,Chamber,Party,GEOID
+California,6,6,"Matsui, Doris O.",Representative,Democratic,606
+Connecticut,9,0,"Murphy, Christopher S.",Senator,Democratic,900
+Connecticut,9,5,"Esty, Elizabeth H.",Representative,Democratic,905
+Florida,12,6,"DeSantis, Ron",Representative,Republican,1206
+Florida,12,13,"Crist, Charlie",Representative,Democratic,1213
+Idaho,16,0,"Crapo, Mike",Senator,Republican,1600
+Illinois,17,12,"Bost, Mike",Representative,Republican,1712
+Illinois,17,14,"Hultgren, Randy",Representative,Republican,1714
+Massachusetts,25,4,"Kennedy, Joseph P., III",Representative,Democratic,2504
+Michigan,26,3,"Amash, Justin",Representative,Republican,2603
+Montana,30,0,"Daines, Steve",Senator,Republican,3000
+Nevada,32,1,"Titus, Dina",Representative,Democratic,3201
+New York,36,10,"Nadler, Jerrold",Representative,Democratic,3610
+Pennsylvania,42,15,"Dent, Charles W.",Representative,Republican,4215
+Pennsylvania,42,12,"Rothfus, Keith J.",Representative,Republican,4212
+Rhode Island,44,0,"Whitehouse, Sheldon",Senator,Democratic,4400
+Texas,48,12,"Granger, Kay",Representative,Republican,4812
+Arkansas,5,2,"Hill, J. French",Representative,Republican,502
+California,6,24,"Carbajal, Salud",Representative,Democratic,624
+California,6,22,"Nunes, Devin",Representative,Republican,622
+Florida,12,21,"Frankel, Lois",Representative,Democratic,1221
+Florida,12,3,"Yoho, Ted S.",Representative,Republican,1203
+Georgia,13,10,"Hice, Jody B.",Representative,Republican,1310
+Maryland,24,4,"Brown, Anthony",Representative,Democratic,2404
+Nevada,32,0,"Masto, Catherine Cortez",Senator,Democratic,3200
+New Jersey,34,8,"Sires, Albio",Representative,Democratic,3408
+New Jersey,34,9,"Pascrell, Bill, Jr.",Representative,Democratic,3409
+North Carolina,37,0,"Tillis, Thom",Senator,Republican,3700
+Ohio,39,1,"Chabot, Steve",Representative,Republican,3901
+Texas,48,13,"Thornberry, Mac",Representative,Republican,4813
+Texas,48,19,"Arrington, Jodey",Representative,Republican,4819
+West Virginia,54,2,"Mooney, Alexander X.",Representative,Republican,5402
+Wisconsin,55,6,"Grothman, Glenn",Representative,Republican,5506
+Wisconsin,55,1,"Ryan, Paul",Representative,Republican,5501
+California,6,36,"Ruiz, Raul",Representative,Democratic,636
+California,6,15,"Swalwell, Eric",Representative,Democratic,615
+California,6,45,"Walters, Mimi",Representative,Republican,645
+California,6,50,"Hunter, Duncan D.",Representative,Republican,650
+Idaho,16,1,"Labrador, Raul R.",Representative,Republican,1601
+Kentucky,21,2,"Guthrie, Brett",Representative,Republican,2102
+Kentucky,21,1,"Comer, James",Representative,Republican,2101
+Minnesota,27,0,"Klobuchar, Amy",Senator,Democratic,2700
+Minnesota,27,8,"Nolan, Richard M.",Representative,Democratic,2708
+Nebraska,31,0,"Sasse, Ben",Senator,Republican,3100
+New York,36,18,"Maloney, Sean Patrick",Representative,Democratic,3618
+North Carolina,37,3,"Jones, Walter B., Jr.",Representative,Republican,3703
+North Carolina,37,10,"McHenry, Patrick T.",Representative,Republican,3710
+Pennsylvania,42,11,"Barletta, Lou",Representative,Republican,4211
+South Dakota,46,0,"Rounds, Mike",Senator,Republican,4600
+Wisconsin,55,2,"Pocan, Mark",Representative,Democratic,5502
+Alabama,1,2,"Roby, Martha",Representative,Republican,102
+Arizona,4,7,"Gallego, Ruben",Representative,Democratic,407
+California,6,8,"Cook, Paul",Representative,Republican,608
+Colorado,8,0,"Bennet, Michael F.",Senator,Democratic,800
+Colorado,8,3,"Tipton, Scott  R.",Representative,Republican,803
+Delaware,10,0,"Coons, Christopher A.",Senator,Democratic,1000
+Florida,12,7,"Murphy, Stephanie",Representative,Democratic,1207
+Georgia,13,11,"Loudermilk, Barry",Representative,Republican,1311
+Georgia,13,4,"Johnson, Henry C. &#34;Hank,&#34; Jr.",Representative,Democratic,1304
+Guam,66,0,"Bordallo, Madeleine Z.",Representative,Democratic,6600
+Illinois,17,13,"Davis, Rodney",Representative,Republican,1713
+Kentucky,21,6,"Barr, Andy",Representative,Republican,2106
+Michigan,26,8,"Bishop, Mike",Representative,Republican,2608
+Mississippi,28,1,"Nunnelee, Alan",Representative,Republican,2801
+Nevada,32,4,"Kihuen, Ruben",Representative,Democratic,3204
+New Jersey,34,12,"Watson Coleman, Bonnie",Representative,Democratic,3412
+New York,36,27,"Collins, Chris",Representative,Republican,3627
+Ohio,39,8,"Davidson, Warren",Representative,Republican,3908
+Pennsylvania,42,10,"Marino, Tom",Representative,Republican,4210
+Pennsylvania,42,16,"Smucker, Lloyd",Representative,Republican,4216
+South Dakota,46,0,"Noem, Kristi L.",Representative,Republican,4600
+Arizona,4,6,"Schweikert, David",Representative,Republican,406
+Arizona,4,8,"Franks, Trent",Representative,Republican,408
+Georgia,13,5,"Lewis, John",Representative,Democratic,1305
+Illinois,17,10,"Schneider, Brad",Representative,Democratic,1710
+Indiana,18,6,"Messer, Luke",Representative,Republican,1806
+Maryland,24,7,"Cummings, Elijah E.",Representative,Democratic,2407
+Missouri,29,3,"Luetkemeyer, Blaine",Representative,Republican,2903
+Montana,30,0,"Tester, Jon",Senator,Democratic,3000
+Nevada,32,0,"Heller, Dean",Senator,Republican,3200
+New York,36,6,"Meng, Grace",Representative,Democratic,3606
+Puerto Rico,72,0,"Pierluisi, Pedro R.",Representative,Democratic,7200
+Tennessee,47,0,"Alexander, Lamar",Senator,Republican,4700
+Texas,48,25,"Williams, Roger",Representative,Republican,4825
+Texas,48,33,"Veasey, Marc A.",Representative,Democratic,4833
+Virginia,51,2,"Taylor, Scott",Representative,Republican,5102
+Washington,53,7,"Jayapal, Pramila",Representative,Democratic,5307
+Alabama,1,5,"Brooks, Mo",Representative,Republican,105
+Arizona,4,9,"Sinema, Kyrsten",Representative,Democratic,409
+California,6,14,"Speier, Jackie",Representative,Democratic,614
+California,6,5,"Thompson, Mike",Representative,Democratic,605
+California,6,2,"Huffman, Jared",Representative,Democratic,602
+Florida,12,11,"Webster, Daniel",Representative,Republican,1211
+Georgia,13,12,"Allen, Rick W.",Representative,Republican,1312
+Illinois,17,4,"Gutierrez, Luis V.",Representative,Democratic,1704
+Illinois,17,0,"Durbin, Richard",Senator,Democratic,1700
+Indiana,18,3,"Stutzman, Marlin A.",Representative,Republican,1803
+Indiana,18,4,"Rokita, Todd",Representative,Republican,1804
+Indiana,18,2,"Walorski, Jackie",Representative,Republican,1802
+Massachusetts,25,0,"Markey, Edward J.",Senator,Democratic,2500
+Michigan,26,6,"Upton, Fred",Representative,Republican,2606
+Michigan,26,4,"Moolenaar, John R.",Representative,Republican,2604
+Missouri,29,1,"Clay, Wm. Lacy",Representative,Democratic,2901
+New Jersey,34,2,"LoBiondo, Frank A.",Representative,Republican,3402
+New Jersey,34,5,"Gottheimer, Josh",Representative,Democratic,3405
+New Mexico,35,0,"Heinrich, Martin",Senator,Democratic,3500
+Ohio,39,9,"Kaptur, Marcy",Representative,Democratic,3909
+Pennsylvania,42,0,"Toomey, Pat",Senator,Republican,4200
+Pennsylvania,42,3,"Kelly, Mike",Representative,Republican,4203
+Washington,53,4,"Newhouse, Dan",Representative,Republican,5304
+Wisconsin,55,0,"Johnson, Ron",Senator,Republican,5500
+Wisconsin,55,7,"Duffy, Sean P.",Representative,Republican,5507
+Arizona,4,4,"Gosar, Paul A.",Representative,Republican,404
+California,6,35,"Torres, Norma J.",Representative,Democratic,635
+California,6,47,"Lowenthal, Alan S.",Representative,Democratic,647
+California,6,11,"DeSaulnier, Mark",Representative,Democratic,611
+Colorado,8,5,"Lamborn, Doug",Representative,Republican,805
+Colorado,8,4,"Buck, Ken",Representative,Republican,804
+Florida,12,2,"Dunn, Neal",Representative,Republican,1202
+Florida,12,25,"Diaz-Balart, Mario",Representative,Republican,1225
+Georgia,13,6,"Price, Tom",Representative,Republican,1306
+Illinois,17,15,"Shimkus, John",Representative,Republican,1715
+Indiana,18,8,"Bucshon, Larry",Representative,Republican,1808
+Iowa,19,1,"Blum, Rod",Representative,Republican,1901
+Iowa,19,2,"Loebsack, David",Representative,Democratic,1902
+Massachusetts,25,2,"McGovern, James P.",Representative,Democratic,2502
+Michigan,26,12,"Dingell, Debbie",Representative,Democratic,2612
+New Mexico,35,1,"Lujan Grisham, Michelle",Representative,Democratic,3501
+New York,36,14,"Crowley, Joseph",Representative,Democratic,3614
+New York,36,8,"Jeffries, Hakeem S.",Representative,Democratic,3608
+North Carolina,37,12,"Adams, Alma S.",Representative,Democratic,3712
+Oklahoma,40,5,"Russell, Steve",Representative,Republican,4005
+Tennessee,47,7,"Blackburn, Marsha",Representative,Republican,4707
+Texas,48,7,"Culberson, John Abney",Representative,Republican,4807
+Texas,48,26,"Burgess, Michael C.",Representative,Republican,4826
+Alabama,1,7,"Sewell, Terri A.",Representative,Democratic,107
+California,6,1,"LaMalfa, Doug",Representative,Republican,601
+California,6,17,"Khanna, Ro",Representative,Democratic,617
+Florida,12,17,"Rooney, Thomas J.",Representative,Republican,1217
+Florida,12,24,"Wilson, Frederica S.",Representative,Democratic,1224
+Florida,12,27,"Ros-Lehtinen, Ileana",Representative,Republican,1227
+Hawaii,15,0,"Hirono, Mazie K.",Senator,Democratic,1500
+Illinois,17,7,"Davis, Danny K.",Representative,Democratic,1707
+Minnesota,27,3,"Paulsen, Erik",Representative,Republican,2703
+New York,36,13,"Espaillat, Adriano",Representative,Democratic,3613
+North Carolina,37,0,"Burr, Richard",Senator,Republican,3700
+Utah,49,0,"Lee, Mike",Senator,Republican,4900
+Washington,53,8,"Reichert, David G.",Representative,Republican,5308
+Washington,53,3,"Herrera Beutler, Jaime",Representative,Republican,5303
+Wisconsin,55,4,"Moore, Gwen",Representative,Democratic,5504
+Wyoming,56,0,"Cheney, Liz",Representative,Republican,5600
+American Samoa,60,0,"Radewagen, Aumua Amata Coleman",Representative,Republican,6000
+California,6,28,"Schiff, Adam B.",Representative,Democratic,628
+Georgia,13,9,"Collins, Doug",Representative,Republican,1309
+Georgia,13,0,"Isakson, Johnny",Senator,Republican,1300
+Illinois,17,2,"Kelly, Robin L.",Representative,Democratic,1702
+Illinois,17,18,"LaHood, Darin",Representative,Republican,1718
+Indiana,18,1,"Visclosky, Peter J.",Representative,Democratic,1801
+Louisiana,22,5,"Abraham, Ralph Lee",Representative,Republican,2205
+Massachusetts,25,0,"Warren, Elizabeth",Senator,Democratic,2500
+Minnesota,27,4,"McCollum, Betty",Representative,Democratic,2704
+New Jersey,34,1,"Norcross, Donald",Representative,Democratic,3401
+New Jersey,34,11,"Frelinghuysen, Rodney P.",Representative,Republican,3411
+New York,36,7,"Velazquez, Nydia M.",Representative,Democratic,3607
+Ohio,39,11,"Fudge, Marcia L.",Representative,Democratic,3911
+Pennsylvania,42,7,"Meehan, Patrick",Representative,Republican,4207
+Pennsylvania,42,18,"Murphy, Tim",Representative,Republican,4218
+Tennessee,47,2,"Duncan, John J., Jr.",Representative,Republican,4702
+Texas,48,10,"McCaul, Michael T.",Representative,Republican,4810
+Alaska,2,0,"Sullivan, Dan",Senator,Republican,200
+California,6,43,"Waters, Maxine",Representative,Democratic,643
+Florida,12,1,"Gaetz, Matt",Representative,Republican,1201
+Florida,12,15,"Ross, Dennis A.",Representative,Republican,1215
+Illinois,17,3,"Lipinski, Daniel",Representative,Democratic,1703
+Indiana,18,0,"Donnelly, Joe",Senator,Democratic,1800
+Iowa,19,0,"Grassley, Chuck",Senator,Republican,1900
+Kentucky,21,0,"McConnell, Mitch",Senator,Republican,2100
+Missouri,29,0,"Blunt, Roy",Senator,Republican,2900
+Missouri,29,8,"Smith, Jason",Representative,Republican,2908
+New York,36,23,"Reed, Tom",Representative,Republican,3623
+North Carolina,37,8,"Hudson, Richard",Representative,Republican,3708
+South Carolina,45,6,"Clyburn, James E.",Representative,Democratic,4506
+Tennessee,47,3,"Fleischmann, Charles J. &#34;Chuck&#34;",Representative,Republican,4703
+Texas,48,11,"Conaway, K. Michael",Representative,Republican,4811
+Texas,48,32,"Sessions, Pete",Representative,Republican,4832
+Alaska,2,0,"Young, Don",Representative,Republican,200
+California,6,19,"Lofgren, Zoe",Representative,Democratic,619
+California,6,29,"Cardenas, Tony",Representative,Democratic,629
+Florida,12,18,"Mast, Brian",Representative,Republican,1218
+Florida,12,16,"Buchanan, Vern",Representative,Republican,1216
+Florida,12,0,"Rubio, Marco",Senator,Republican,1200
+Florida,12,10,"Demings, Val",Representative,Democratic,1210
+Georgia,13,8,"Scott, Austin",Representative,Republican,1308
+Idaho,16,2,"Simpson, Michael K.",Representative,Republican,1602
+Kansas,20,1,"Marshall, Roger",Representative,Republican,2001
+Kentucky,21,3,"Yarmuth, John A.",Representative,Democratic,2103
+New Jersey,34,7,"Lance, Leonard",Representative,Republican,3407
+North Dakota,38,0,"Cramer, Kevin",Representative,Republican,3800
+Ohio,39,15,"Stivers, Steve",Representative,Republican,3915
+Oklahoma,40,0,"Inhofe, James M.",Senator,Republican,4000
+Texas,48,15,"Gonzalez, Vicente",Representative,Democratic,4815
+Utah,49,2,"Stewart, Chris",Representative,Republican,4902
+Virginia,51,8,"Beyer, Donald S., Jr.",Representative,Democratic,5108
+Washington,53,0,"Cantwell, Maria",Senator,Democratic,5300
+Washington,53,9,"Smith, Adam",Representative,Democratic,5309
+West Virginia,54,1,"McKinley, David B.",Representative,Republican,5401
+Wisconsin,55,3,"Kind, Ron",Representative,Democratic,5503
+Wisconsin,55,8,"Gallagher, Mike",Representative,Republican,5508
+California,6,3,"Garamendi, John",Representative,Democratic,603
+California,6,40,"Roybal-Allard, Lucille",Representative,Democratic,640
+California,6,49,"Issa, Darrell E.",Representative,Republican,649
+Colorado,8,0,"Gardner, Cory",Senator,Republican,800
+Connecticut,9,0,"Blumenthal, Richard",Senator,Democratic,900
+Connecticut,9,2,"Courtney, Joe",Representative,Democratic,902
+Georgia,13,3,"Ferguson, Drew",Representative,Republican,1303
+Illinois,17,16,"Kinzinger, Adam",Representative,Republican,1716
+Iowa,19,0,"Ernst, Joni",Senator,Republican,1900
+Maryland,24,3,"Sarbanes, John P.",Representative,Democratic,2403
+Maryland,24,8,"Van Hollen, Chris",Representative,Democratic,2408
+New Hampshire,33,0,"Hassan, Maggie",Senator,Democratic,3300
+New Hampshire,33,0,"Shaheen, Jeanne",Senator,Democratic,3300
+New York,36,17,"Lowey, Nita M.",Representative,Democratic,3617
+Oregon,41,2,"Walden, Greg",Representative,Republican,4102
+Pennsylvania,42,0,"Casey, Robert P., Jr.",Senator,Democratic,4200
+Rhode Island,44,1,"Cicilline, David N.",Representative,Democratic,4401
+South Dakota,46,0,"Thune, John",Senator,Republican,4600
+Tennessee,47,8,"Kustoff, David",Representative,Republican,4708
+Texas,48,31,"Carter, John R.",Representative,Republican,4831
+Texas,48,30,"Johnson, Eddie Bernice",Representative,Democratic,4830
+Virginia,51,6,"Goodlatte, Bob",Representative,Republican,5106
+Virginia,51,11,"Connolly, Gerald E.",Representative,Democratic,5111
+Virginia,51,7,"Brat, Dave",Representative,Republican,5107
+Alabama,1,3,"Rogers, Mike D.",Representative,Republican,103
+Arizona,4,0,"McCain, John",Senator,Republican,400
+Arkansas,5,0,"Boozman, John",Senator,Republican,500
+California,6,0,"Feinstein, Dianne",Senator,Democratic,600
+California,6,37,"Bass, Karen",Representative,Democratic,637
+Maine,23,0,"King, Angus S., Jr.",Senator,Independent,2300
+Maryland,24,2,"Ruppersberger, C. A. Dutch",Representative,Democratic,2402
+Michigan,26,9,"Levin, Sander M.",Representative,Democratic,2609
+Minnesota,27,0,"Franken, Al",Senator,Democratic,2700
+New Jersey,34,6,"Pallone, Frank, Jr.",Representative,Democratic,3406
+New York,36,24,"Katko, John",Representative,Republican,3624
+North Dakota,38,0,"Hoeven, John",Senator,Republican,3800
+Ohio,39,7,"Gibbs, Bob",Representative,Republican,3907
+Oregon,41,5,"Schrader, Kurt",Representative,Democratic,4105
+Texas,48,24,"Marchant, Kenny",Representative,Republican,4824
+Virginia,51,0,"Kaine, Tim",Senator,Democratic,5100
+Washington,53,2,"Larsen, Rick",Representative,Democratic,5302
+Washington,53,5,"McMorris Rodgers, Cathy",Representative,Republican,5305
+,,0,"Davidson, Warren",Representative,,
+Arizona,4,2,"McSally, Martha",Representative,Republican,402
+Arkansas,5,1,"Crawford, Eric A. &#34;Rick&#34;",Representative,Republican,501
+California,6,25,"Knight, Stephen",Representative,Republican,625
+Georgia,13,1,"Carter, Earl L. &#34;Buddy&#34;",Representative,Republican,1301
+Indiana,18,0,"Young, Todd",Senator,Republican,1800
+Kentucky,21,4,"Massie, Thomas",Representative,Republican,2104
+Michigan,26,10,"Mitchell, Paul",Representative,Republican,2610
+Mississippi,28,3,"Harper, Gregg",Representative,Republican,2803
+Missouri,29,4,"Hartzler, Vicky",Representative,Republican,2904
+Nevada,32,2,"Amodei, Mark E.",Representative,Republican,3202
+New Jersey,34,10,"Payne, Donald M., Jr.",Representative,Democratic,3410
+New York,36,26,"Higgins, Brian",Representative,Democratic,3626
+Ohio,39,14,"Joyce, David P.",Representative,Republican,3914
+Ohio,39,10,"Turner, Michael R.",Representative,Republican,3910
+Oklahoma,40,3,"Lucas, Frank D.",Representative,Republican,4003
+Pennsylvania,42,4,"Perry, Scott",Representative,Republican,4204
+Rhode Island,44,0,"Reed, Jack",Senator,Democratic,4400
+Tennessee,47,9,"Cohen, Steve",Representative,Democratic,4709
+Texas,48,0,"Cruz, Ted",Senator,Republican,4800
+Texas,48,28,"Cuellar, Henry",Representative,Democratic,4828
+Texas,48,36,"Babin, Brian",Representative,Republican,4836
+Texas,48,0,"Cornyn, John",Senator,Republican,4800
+Alabama,1,0,"Shelby, Richard C.",Senator,Republican,100
+California,6,44,"Hahn, Janice",Representative,Democratic,644
+California,6,33,"Lieu, Ted",Representative,Democratic,633
+California,6,34,"Becerra, Xavier",Representative,Democratic,634
+California,6,10,"Denham, Jeff",Representative,Republican,610
+California,6,53,"Davis, Susan A.",Representative,Democratic,653
+California,6,32,"Napolitano, Grace F.",Representative,Democratic,632
+Colorado,8,6,"Coffman, Mike",Representative,Republican,806
+Connecticut,9,4,"Himes, James A.",Representative,Democratic,904
+Florida,12,20,"Hastings, Alcee L.",Representative,Democratic,1220
+Florida,12,14,"Castor, Kathy",Representative,Democratic,1214
+Florida,12,5,"Lawson, Al",Representative,Democratic,1205
+Illinois,17,5,"Quigley, Mike",Representative,Democratic,1705
+Louisiana,22,0,"Vitter, David",Senator,Republican,2200
+Maryland,24,1,"Harris, Andy",Representative,Republican,2401
+Massachusetts,25,7,"Capuano, Michael E.",Representative,Democratic,2507
+Massachusetts,25,5,"Clark, Katherine M.",Representative,Democratic,2505
+Minnesota,27,5,"Ellison, Keith",Representative,Democratic,2705
+Nebraska,31,2,"Bacon, Don",Representative,Republican,3102
+Nebraska,31,1,"Fortenberry, Jeff",Representative,Republican,3101
+New York,36,20,"Tonko, Paul",Representative,Democratic,3620
+New York,36,0,"Gillibrand, Kirsten E.",Senator,Democratic,3600
+North Carolina,37,6,"Walker, Mark",Representative,Republican,3706
+Pennsylvania,42,14,"Doyle, Michael F.",Representative,Democratic,4214
+South Carolina,45,7,"Rice, Tom",Representative,Republican,4507
+South Carolina,45,1,"Sanford, Mark",Representative,Republican,4501
+Texas,48,35,"Doggett, Lloyd",Representative,Democratic,4835
+Texas,48,3,"Johnson, Sam",Representative,Republican,4803
+Utah,49,3,"Chaffetz, Jason",Representative,Republican,4903
+Virginia,51,3,"Scott, Robert C. &#34;Bobby&#34;",Representative,Democratic,5103
+Idaho,16,0,"Risch, James E.",Senator,Republican,1600
+Illinois,17,8,"Krishnamoorthi, Raja",Representative,Democratic,1708
+Louisiana,22,2,"Richmond, Cedric L.",Representative,Democratic,2202
+Michigan,26,0,"Peters, Gary C.",Senator,Democratic,2600
+Michigan,26,7,"Walberg, Tim",Representative,Republican,2607
+Mississippi,28,0,"Cochran, Thad",Senator,Republican,2800
+New Mexico,35,2,"Pearce, Stevan",Representative,Republican,3502
+New York,36,12,"Maloney, Carolyn B.",Representative,Democratic,3612
+North Carolina,37,7,"Rouzer, David",Representative,Republican,3707
+Pennsylvania,42,13,"Boyle, Brendan F.",Representative,Democratic,4213
+Pennsylvania,42,1,"Brady, Robert A.",Representative,Democratic,4201
+South Carolina,45,0,"Graham, Lindsey",Senator,Republican,4500
+South Carolina,45,2,"Wilson, Joe",Representative,Republican,4502
+Tennessee,47,1,"Roe, David P.",Representative,Republican,4701
+Texas,48,2,"Poe, Ted",Representative,Republican,4802
+Texas,48,5,"Hensarling, Jeb",Representative,Republican,4805
+Texas,48,29,"Green, Gene",Representative,Democratic,4829
+Utah,49,1,"Bishop, Rob",Representative,Republican,4901
+Arkansas,5,4,"Westerman, Bruce",Representative,Republican,504
+California,6,0,"Harris, Kamala",Senator,Democratic,600
+California,6,42,"Calvert, Ken",Representative,Republican,642
+Florida,12,23,"Wasserman Schultz, Debbie",Representative,Democratic,1223
+Florida,12,26,"Curbelo, Carlos",Representative,Republican,1226
+Georgia,13,13,"Scott, David",Representative,Democratic,1313
+Louisiana,22,1,"Scalise, Steve",Representative,Republican,2201
+Maryland,24,5,"Hoyer, Steny H.",Representative,Democratic,2405
+Massachusetts,25,9,"Keating, William R.",Representative,Democratic,2509
+Minnesota,27,2,"Kline, John",Representative,Republican,2702
+New Jersey,34,0,"Booker, Cory A.",Senator,Democratic,3400
+New Jersey,34,0,"Menendez, Robert",Senator,Democratic,3400
+New York,36,21,"Stefanik, Elise M.",Representative,Republican,3621
+Oregon,41,4,"DeFazio, Peter A.",Representative,Democratic,4104
+Tennessee,47,4,"DesJarlais, Scott",Representative,Republican,4704
+Texas,48,27,"Farenthold, Blake",Representative,Republican,4827
+Virginia,51,4,"McEachin, Donald",Representative,Democratic,5104
+Wyoming,56,0,"Barrasso, John",Senator,Republican,5600
+,,0,"LaHood, Darin",Representative,,
+Alaska,2,0,"Murkowski, Lisa",Senator,Republican,200
+Arizona,4,0,"Flake, Jeff",Senator,Republican,400
+Delaware,10,0,"Rochester, Lisa Blunt",Representative,Democratic,1000
+Florida,12,9,"Soto, Darren",Representative,Democratic,1209
+Florida,12,12,"Bilirakis, Gus M.",Representative,Republican,1212
+Georgia,13,0,"Perdue, David",Senator,Republican,1300
+Illinois,17,0,"Duckworth, Tammy",Senator,Democratic,1700
+Indiana,18,7,"Carson, Andre",Representative,Democratic,1807
+Kansas,20,0,"Moran, Jerry",Senator,Republican,2000
+Louisiana,22,4,"Fleming, John",Representative,Republican,2204
+Minnesota,27,1,"Walz, Timothy J.",Representative,Democratic,2701
+New Hampshire,33,1,"Shea-Porter, Carol",Representative,Democratic,3301
+New York,36,22,"Tenney, Claudia",Representative,Republican,3622
+North Carolina,37,5,"Foxx, Virginia",Representative,Republican,3705
+North Carolina,37,11,"Meadows, Mark",Representative,Republican,3711
+Ohio,39,3,"Beatty, Joyce",Representative,Democratic,3903
+Oregon,41,1,"Bonamici, Suzanne",Representative,Democratic,4101
+Texas,48,8,"Brady, Kevin",Representative,Republican,4808
+Texas,48,6,"Barton, Joe",Representative,Republican,4806
+Utah,49,0,"Hatch, Orrin G.",Senator,Republican,4900
+Virginia,51,10,"Comstock, Barbara",Representative,Republican,5110
+California,6,39,"Royce, Edward R.",Representative,Republican,639
+Colorado,8,2,"Polis, Jared",Representative,Democratic,802
+Maryland,24,6,"Delaney, John K.",Representative,Democratic,2406
+Michigan,26,1,"Bergman, Jack",Representative,Republican,2601
+Missouri,29,0,"McCaskill, Claire",Senator,Democratic,2900
+Missouri,29,2,"Wagner, Ann",Representative,Republican,2902
+New Mexico,35,0,"Udall, Tom",Senator,Democratic,3500
+Ohio,39,16,"Renacci, James B.",Representative,Republican,3916
+Pennsylvania,42,9,"Shuster, Bill",Representative,Republican,4209
+South Carolina,45,3,"Duncan, Jeff",Representative,Republican,4503
+South Carolina,45,5,"Mulvaney, Mick",Representative,Republican,4505
+Utah,49,4,"Love, Mia B.",Representative,Republican,4904
+Washington,53,10,"Heck, Denny",Representative,Democratic,5310
+West Virginia,54,0,"Manchin, Joe, III",Senator,Democratic,5400
+Arizona,4,5,"Biggs, Andy",Representative,Republican,405
+Arizona,4,3,"Grijalva, Raul M.",Representative,Democratic,403
+California,6,52,"Peters, Scott H.",Representative,Democratic,652
+California,6,26,"Brownley, Julia",Representative,Democratic,626
+California,6,4,"McClintock, Tom",Representative,Republican,604
+California,6,38,"Sanchez, Linda T.",Representative,Democratic,638
+Hawaii,15,2,"Gabbard, Tulsi",Representative,Democratic,1502
+Illinois,17,6,"Roskam, Peter J.",Representative,Republican,1706
+Iowa,19,3,"Young, David",Representative,Republican,1903
+Michigan,26,11,"Trott, David A.",Representative,Republican,2611
+Missouri,29,5,"Cleaver, Emanuel",Representative,Democratic,2905
+Missouri,29,6,"Graves, Sam",Representative,Republican,2906
+New Hampshire,33,2,"Kuster, Ann M.",Representative,Democratic,3302
+New Jersey,34,3,"MacArthur, Thomas",Representative,Republican,3403
+Northern Mariana Islands,69,0,"Sablan, Gregorio Kilili Camacho",Representative,Democratic,6900
+Ohio,39,12,"Tiberi, Patrick J.",Representative,Republican,3912
+Oklahoma,40,4,"Cole, Tom",Representative,Republican,4004
+Pennsylvania,42,5,"Thompson, Glenn",Representative,Republican,4205
+Tennessee,47,6,"Black, Diane",Representative,Republican,4706
+Texas,48,34,"Vela, Filemon",Representative,Democratic,4834
+Texas,48,21,"Smith, Lamar",Representative,Republican,4821
+West Virginia,54,0,"Capito, Shelley Moore",Senator,Republican,5400
+Wisconsin,55,5,"Sensenbrenner, F. James, Jr.",Representative,Republican,5505
+Arkansas,5,0,"Cotton, Tom",Senator,Republican,500
+California,6,13,"Lee, Barbara",Representative,Democratic,613
+Hawaii,15,0,"Schatz, Brian",Senator,Democratic,1500
+Illinois,17,17,"Bustos, Cheri",Representative,Democratic,1717
+Indiana,18,9,"Hollingsworth, Trey",Representative,Republican,1809
+Iowa,19,4,"King, Steve",Representative,Republican,1904
+Kansas,20,3,"Yoder, Kevin",Representative,Republican,2003
+Michigan,26,0,"Stabenow, Debbie",Senator,Democratic,2600
+Mississippi,28,4,"Palazzo, Steven M.",Representative,Republican,2804
+Nevada,32,3,"Rosen, Jacky",Representative,Democratic,3203
+New Jersey,34,4,"Smith, Christopher H.",Representative,Republican,3404
+New York,36,3,"Suozzi, Tom",Representative,Democratic,3603
+New York,36,11,"Donovan, Daniel M., Jr.",Representative,Republican,3611
+Oklahoma,40,1,"Bridenstine, Jim",Representative,Republican,4001
+Oregon,41,0,"Merkley, Jeff",Senator,Democratic,4100
+South Carolina,45,0,"Scott, Tim",Senator,Republican,4500
+Tennessee,47,0,"Corker, Bob",Senator,Republican,4700
+Texas,48,17,"Flores, Bill",Representative,Republican,4817
+Texas,48,23,"Hurd, Will",Representative,Republican,4823
+Vermont,50,0,"Welch, Peter",Representative,Democratic,5000
+Virginia,51,5,"Garrett, Tom",Representative,Republican,5105
+Alabama,1,6,"Palmer, Gary J.",Representative,Republican,106
+California,6,16,"Costa, Jim",Representative,Democratic,616
+California,6,12,"Pelosi, Nancy",Representative,Democratic,612
+California,6,21,"Valadao, David G.",Representative,Republican,621
+Colorado,8,1,"DeGette, Diana",Representative,Democratic,801
+Florida,12,8,"Posey, Bill",Representative,Republican,1208
+Georgia,13,14,"Graves, Tom",Representative,Republican,1314
+Illinois,17,9,"Schakowsky, Janice D.",Representative,Democratic,1709
+Massachusetts,25,3,"Tsongas, Niki",Representative,Democratic,2503
+New York,36,2,"King, Peter T.",Representative,Republican,3602
+New York,36,25,"Slaughter, Louise McIntosh",Representative,Democratic,3625
+Pennsylvania,42,2,"Evans, Dwight",Representative,Democratic,4202
+Pennsylvania,42,17,"Cartwright, Matt",Representative,Democratic,4217
+Rhode Island,44,2,"Langevin, James R.",Representative,Democratic,4402
+Texas,48,22,"Olson, Pete",Representative,Republican,4822
+Washington,53,1,"DelBene, Suzan K.",Representative,Democratic,5301
+Wisconsin,55,0,"Baldwin, Tammy",Senator,Democratic,5500
+Alabama,1,1,"Byrne, Bradley",Representative,Republican,101
+California,6,30,"Sherman, Brad",Representative,Democratic,630
+District of Columbia,11,0,"Norton, Eleanor Holmes",Representative,Democratic,1100
+Florida,12,22,"Frankel, Lois",Representative,Democratic,1222
+Kansas,20,4,"Pompeo, Mike",Representative,Republican,2004
+Michigan,26,13,"Conyers, John, Jr.",Representative,Democratic,2613
+Michigan,26,14,"Lawrence, Brenda L.",Representative,Democratic,2614
+Mississippi,28,0,"Wicker, Roger F.",Senator,Republican,2800
+Montana,30,0,"Zinke, Ryan K.",Representative,Republican,3000
+New York,36,15,"Serrano, Jose E.",Representative,Democratic,3615
+Oklahoma,40,0,"Lankford, James",Senator,Republican,4000
+South Carolina,45,4,"Gowdy, Trey",Representative,Republican,4504
+Tennessee,47,5,"Cooper, Jim",Representative,Democratic,4705
+Texas,48,14,"Weber, Randy K., Sr.",Representative,Republican,4814
+Alabama,1,4,"Aderholt, Robert B.",Representative,Republican,104
+California,6,9,"McNerney, Jerry",Representative,Democratic,609
+California,6,18,"Eshoo, Anna G.",Representative,Democratic,618
+California,6,48,"Rohrabacher, Dana",Representative,Republican,648
+Georgia,13,7,"Woodall, Rob",Representative,Republican,1307
+Kansas,20,0,"Roberts, Pat",Senator,Republican,2000
+Kentucky,21,5,"Rogers, Harold",Representative,Republican,2105
+Maine,23,2,"Poliquin, Bruce",Representative,Republican,2302
+Minnesota,27,6,"Emmer, Tom",Representative,Republican,2706
+Mississippi,28,1,"Kelly, Trent",Representative,Republican,2801
+New York,36,9,"Clarke, Yvette D.",Representative,Democratic,3609
+New York,36,16,"Engel, Eliot L.",Representative,Democratic,3616
+North Carolina,37,13,"Budd, Ted",Representative,Republican,3713
+Ohio,39,6,"Johnson, Bill",Representative,Republican,3906
+Ohio,39,5,"Latta, Robert E.",Representative,Republican,3905
+Ohio,39,13,"Ryan, Tim",Representative,Democratic,3913
+Texas,48,1,"Gohmert, Louie",Representative,Republican,4801
+Texas,48,4,"Ratcliffe, John",Representative,Republican,4804
+Virginia,51,0,"Warner, Mark R.",Senator,Democratic,5100
+California,6,46,"Correa, Lou",Representative,Democratic,646
+California,6,7,"Bera, Ami",Representative,Democratic,607
+California,6,27,"Chu, Judy",Representative,Democratic,627
+Kentucky,21,0,"Paul, Rand",Senator,Republican,2100
+Louisiana,22,6,"Graves, Garret",Representative,Republican,2206
+Maryland,24,0,"Cardin, Benjamin L.",Senator,Democratic,2400
+Michigan,26,5,"Kildee, Daniel T.",Representative,Democratic,2605
+Nebraska,31,3,"Smith, Adrian",Representative,Republican,3103
+Nebraska,31,0,"Fischer, Deb",Senator,Republican,3100
+New Mexico,35,3,"Lujan, Ben Ray",Representative,Democratic,3503
+New York,36,5,"Meeks, Gregory W.",Representative,Democratic,3605
+North Carolina,37,9,"Pittenger, Robert",Representative,Republican,3709
+North Carolina,37,4,"Price, David E.",Representative,Democratic,3704
+Ohio,39,0,"Portman, Rob",Senator,Republican,3900
+Pennsylvania,42,6,"Costello, Ryan A.",Representative,Republican,4206
+Texas,48,18,"Jackson Lee, Sheila",Representative,Democratic,4818
+Texas,48,9,"Green, Al",Representative,Democratic,4809
+Texas,48,16,"O&#39;Rourke, Beto",Representative,Democratic,4816
+West Virginia,54,3,"Jenkins, Evan H.",Representative,Republican,5403
+Wyoming,56,0,"Enzi, Michael B.",Senator,Republican,5600
+Arizona,4,1,"O'Halleran, Tom",Representative,Democratic,401
+Arkansas,5,3,"Womack, Steve",Representative,Republican,503
+California,6,23,"McCarthy, Kevin",Representative,Republican,623
+California,6,41,"Takano, Mark",Representative,Democratic,641
+California,6,31,"Aguilar, Pete",Representative,Democratic,631
+Connecticut,9,1,"Larson, John B.",Representative,Democratic,901
+Georgia,13,2,"Bishop, Sanford D., Jr.",Representative,Democratic,1302
+Hawaii,15,1,"Hanabusa, Colleen",Representative,Democratic,1501
+Illinois,17,11,"Foster, Bill",Representative,Democratic,1711
+Kansas,20,2,"Jenkins, Lynn",Representative,Republican,2002
+Louisiana,22,3,"Boustany, Charles W., Jr.",Representative,Republican,2203
+Maine,23,0,"Collins, Susan M.",Senator,Republican,2300
+Minnesota,27,7,"Peterson, Collin C.",Representative,Democratic,2707
+Mississippi,28,2,"Thompson, Bennie G.",Representative,Democratic,2802
+New York,36,19,"Faso, John",Representative,Republican,3619
+Ohio,39,0,"Brown, Sherrod",Senator,Democratic,3900
+Texas,48,20,"Castro, Joaquin",Representative,Democratic,4820
+Washington,53,6,"Kilmer, Derek",Representative,Democratic,5306
+Alabama,1,0,"Sessions, Jeff",Senator,Republican,100
+Connecticut,9,3,"DeLauro, Rosa L.",Representative,Democratic,903
+Delaware,10,0,"Carper, Thomas R.",Senator,Democratic,1000
+Louisiana,22,0,"Cassidy, Bill",Senator,Republican,2200
+Massachusetts,25,6,"Moulton, Seth",Representative,Democratic,2506
+New York,36,4,"Rice, Kathleen M.",Representative,Democratic,3604
+New York,36,0,"Schumer, Charles E.",Senator,Democratic,3600
+North Carolina,37,1,"Butterfield, G. K.",Representative,Democratic,3701
+Ohio,39,2,"Wenstrup, Brad R.",Representative,Republican,3902
+Oklahoma,40,2,"Mullin, Markwayne",Representative,Republican,4002
+Pennsylvania,42,8,"Fitzpatrick, Michael G.",Representative,Republican,4208
+Vermont,50,0,"Leahy, Patrick J.",Senator,Democratic,5000
+Vermont,50,0,"Sanders, Bernard",Senator,Independent,5000
+Virginia,51,9,"Griffith, H. Morgan",Representative,Republican,5109
+Virginia,51,1,"Wittman, Robert J.",Representative,Republican,5101
+Washington,53,0,"Murray, Patty",Senator,Democratic,5300
+California,6,20,"Panetta, Jimmy",Representative,Democratic,620
+California,6,51,"Vargas, Juan",Representative,Democratic,651
+Colorado,8,7,"Perlmutter, Ed",Representative,Democratic,807
+Florida,12,0,"Nelson, Bill",Senator,Democratic,1200
+Florida,12,19,"Rooney, Francis",Representative,Republican,1219
+Florida,12,4,"Rutherford, John",Representative,Republican,1204
+Illinois,17,1,"Rush, Bobby L.",Representative,Democratic,1701
+Indiana,18,5,"Brooks, Susan W.",Representative,Republican,1805
+Maine,23,1,"Pingree, Chellie",Representative,Democratic,2301
+Maryland,24,0,"Van Hollen, Chris",Senator,Democratic,2400
+Massachusetts,25,8,"Lynch, Stephen F.",Representative,Democratic,2508
+Massachusetts,25,1,"Neal, Richard E.",Representative,Democratic,2501
+Michigan,26,2,"Lewis, Jason",Representative,Republican,2602
+Missouri,29,7,"Long, Billy",Representative,Republican,2907
+New York,36,1,"Zeldin, Lee M.",Representative,Republican,3601
+North Carolina,37,2,"Holding, George",Representative,Republican,3702
+North Dakota,38,0,"Heitkamp, Heidi",Senator,Democratic,3800
+Ohio,39,4,"Jordan, Jim",Representative,Republican,3904
+Oregon,41,0,"Wyden, Ron",Senator,Democratic,4100
+Oregon,41,3,"Blumenauer, Earl",Representative,Democratic,4103
+Virgin Islands,Virgin Islands,0,"Plaskett, Stacey E.",Representative,Democratic,Virgin Islands00
